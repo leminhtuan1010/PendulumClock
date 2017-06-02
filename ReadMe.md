@@ -1,11 +1,13 @@
-#Pen Dulum Clock
+# Pen Dulum Clock
 ## Giới thiệu
  Trong bài sẽ mô tả từng bước cụ thể để có thể vẽ lên một đồng hồ và quả lắc(Pen-dulum-clock)
- ![demo](http://imgur.com/a/i9DHA)
-##Tạo một chiếc đồng hồ và quả lắc
+ <img src="http://imgur.com/a/i9DHA">
+ 
+## Tạo một chiếc đồng hồ và quả lắc
 	Phần này sẽ hướng dẫn tạo một đồng hồ với đầy đủ các kim . Source code ở phần ViewController.swift
-![demo](http://imgur.com/a/i9DHA)
-###Khởi tạo vẽ các kim giây và con lắc
+![demo](http://imgur.com/a/i9DHA) 
+
+### Khởi tạo vẽ các kim giây và con lắc
 	Vẽ các kim với một câu kệnh khá giống nhau nên ở đây chỉ đưa ra vẽ kim giờ:
 ![codeVe](http://imgur.com/a/2pSHX)
 	* Về mặt logic thì chúng ta đang cấp toạ độ cho kim giờ ở các vị trí X:191 và Y: 276 với kích thước được được định sẵn.
